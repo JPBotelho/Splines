@@ -22,4 +22,5 @@ Curves classes contain:
 
 Feel free to make pull requests and add more spline types!
 
-noobstudiosunity @ gmail.com
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
