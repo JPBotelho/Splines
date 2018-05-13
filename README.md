@@ -23,4 +23,4 @@ Curves classes contain:
 Feel free to make pull requests and add more spline types!
 
 # Consider buying me a coffee if you like my work (click the image)
-[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
+[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
